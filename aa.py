@@ -151,7 +151,7 @@ def clear_logs_command(message):
         response = "Only Admin Can Run This Command."
     bot.reply_to(message, response)
 
- @bot.message_handler(commands=['start'])
+ 
 def welcome_start(message):
     user_name = message.from_user.first_name
     response = f"Welcome to Your Home, {user_name}! Feel Free to Explore.\nTry To Run This Command :  /help   \nWelcome To The World's Best Ddos Bot\nBy https://t.me/rajajiji745"
@@ -239,7 +239,7 @@ def handle_bgmi(message):
         # Check if the user is in admin_id (admins have no cooldown)
         if user_id not in admin_id:
             # Check if the user has run the command before and is still within the cooldown period
-            if user_id in bgmi_cooldown and (datetime.datetime.now() - bgmi_cooldown[user_id]).seconds < 300:
+            if user_id in bgmi_cooldown and (datetime.datetime.now() - bgmi_cooldown[user_id]).seconds < 0:
                 response = "You Are On Cooldown. Please Wait 2min Before Running The /bgmi Command Again."
                 bot.reply_to(message, response)
                 return

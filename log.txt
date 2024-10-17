@@ -1,0 +1,44 @@
+UserID: 1383460048 | Time: 2024-10-17 08:40:17.438671 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+Username: @rajaraj_01
+Target: 1
+Port: 1
+Time: 1
+
+UserID: 1383460048 | Time: 2024-10-17 08:42:01.723493 | Command: /bgmi | Target: 1 | Port: 1 | Time: 1
+Username: @rajaraj_01
+Target: 1
+Port: 1
+Time: 1
+
+UserID: -1002103021426 | Time: 2024-10-17 09:58:39.667095 | Command: /bgmi | Target: 20.204.39.173 | Port: 26230 | Time: 20
+UserID: -1002103021426 | Time: 2024-10-17 09:59:02.427405 | Command: /bgmi | Target: 20.204.39.173 | Port: 26230 | Time: 20
+Username: @rajajiji745
+Target: 20.204.39.173
+Port: 26230
+Time: 20
+
+UserID: -1002103021426 | Time: 2024-10-17 09:59:12.375804 | Command: /bgmi | Target: 20.204.39.173 | Port: 26230 | Time: 20
+Username: @rajajiji745
+Target: 20.204.39.173
+Port: 26230
+Time: 20
+
+UserID: -1002103021426 | Time: 2024-10-17 10:08:01.605270 | Command: /bgmi | Target: 4.213.65.142 | Port: 12533 | Time: 180
+Username: @rajajiji745
+Target: 4.213.65.142
+Port: 12533
+Time: 180
+
+UserID: -1002103021426 | Time: 2024-10-17 10:22:29.643842 | Command: /bgmi | Target: 4.213.64.116 | Port: 28180 | Time: 160
+Username: @rajajiji745
+Target: 4.213.64.116
+Port: 28180
+Time: 160
+
+UserID: -1002446615742 | Time: 2024-10-17 10:29:00.305275 | Command: /bgmi | Target: 20.235.32.10 | Port: 26399 | Time: 240
+UserID: -1002446615742 | Time: 2024-10-17 10:29:58.929238 | Command: /bgmi | Target: 20.235.32.10 | Port: 26399 | Time: 120
+Username: UserID: -1002446615742
+Target: 20.235.32.10
+Port: 26399
+Time: 120
+
